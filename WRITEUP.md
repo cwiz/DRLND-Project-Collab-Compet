@@ -1,5 +1,5 @@
 [image1]: https://user-images.githubusercontent.com/10624937/42135623-e770e354-7d12-11e8-998d-29fc74429ca2.gif "Tennis"
-[image1]: https://user-images.githubusercontent.com/10624937/42135623-e770e354-7d12-11e8-998d-29fc74429ca2.gif "Tenis-Rewards"
+[image2]: https://github.com/cwiz/DRLND-Project-Collab-Compet/blob/master/images/Capture.PNG?raw=true "Tenis-Rewards"
 
 
 # Project 2: Collaboration and Competition
