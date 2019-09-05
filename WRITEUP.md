@@ -1,7 +1,7 @@
 [image1]: https://user-images.githubusercontent.com/10624937/42135623-e770e354-7d12-11e8-998d-29fc74429ca2.gif "Tennis"
 [image2]: https://github.com/cwiz/DRLND-Project-Collab-Compet/blob/master/images/Tennis.PNG?raw=true "Tennis-Rewards"
 [image3]: https://github.com/cwiz/DRLND-Project-Collab-Compet/blob/master/images/Soccer-Striker.PNG?raw=true "Soccer-Rewards-Striker"
-[image4]: https://github.com/cwiz/DRLND-Project-Collab-Compet/blob/master/images/Soccer-Goalie.PNG?raw=true "Soccer-Rewards-Goalie"
+[image4]: https://github.com/cwiz/DRLND-Project-Collab-Compet/blob/master/images/Striker-Goalie.PNG?raw=true "Soccer-Rewards-Goalie"
 
 
 # Project 3: Collaboration and Competition
